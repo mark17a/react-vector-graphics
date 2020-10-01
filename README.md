@@ -11,7 +11,7 @@
 [![Slack workspace](https://slackinvite.dev.tophat.com/badge.svg)](https://opensource.tophat.com/slack)<!-- ALL-CONTRIBUTORS-BADGE:START - Do not remove or modify this section -->
 [![All Contributors](https://img.shields.io/badge/all_contributors-2-orange.svg?style=flat-square)](#contributors-)<!-- ALL-CONTRIBUTORS-BADGE:END -->
 
-## Overview
+## Overview 360°
 
 Automate the building of `React` components from svg files.
 
@@ -19,7 +19,7 @@ Automate the building of `React` components from svg files.
 
 Started off as a project to stop svg files from being scattered over multiple repos. It turned into a way to auto generate the react components directly to reduce boilerplate. Then have the auto generation support multiple configuration per repository. Finally creating a bot to handle the generation and optimisation of the svgs.
 
-## Usage
+## Usage/Importance 
 
 See individual package readmes for more detailed documentation.
 
@@ -50,7 +50,7 @@ Build all packages
 yarn build:watch
 ```
 
-## Contributors
+## Contributors or part of our family 
 
 <!-- ALL-CONTRIBUTORS-LIST:START - Do not remove or modify this section -->
 <!-- prettier-ignore-start -->
